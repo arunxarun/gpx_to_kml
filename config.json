@@ -1,0 +1,6 @@
+{
+	"dbPath": "mongodb://localhost/convertedDocs",
+	"port": 8000,
+  "LOG_LEVEL": "info",
+	"fileStorage": "/tmp/kml_files"
+}

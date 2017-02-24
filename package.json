@@ -1,0 +1,23 @@
+{
+  "name": "gpx_to_kml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha './**/*.spec.js'"
+  },
+  "author": "Arun Jacob",
+  "license": "ISC",
+  "dependencies": {
+    "@mapbox/togeojson": "^0.16.0",
+    "chai": "^3.5.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.2.0",
+    "request": "^2.79.0",
+    "restify": "^4.3.0",
+    "sinon": "^1.17.7",
+    "uuid": "^3.0.1",
+    "winston": "^2.3.1",
+    "xmldom": "^0.1.27"
+  }
+}
